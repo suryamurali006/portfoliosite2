@@ -1,3 +1,5 @@
+is this corrent 
+
 :root{
 
 --accent:#2e6b46;
@@ -302,4 +304,5 @@ margin-top:-25px;
 body:has(.contact) footer{
 margin-top:-40px;
 }
+
 }
